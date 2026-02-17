@@ -7,5 +7,5 @@ web developer
 ![css](https://img.shields.io/badge/css-DD3A0A?style=for-the-badge&logo=css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-302683?style=for-the-badge&logo=HTML&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![javascript](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=B9DF2E)
+![javascript](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=yellow)
 
